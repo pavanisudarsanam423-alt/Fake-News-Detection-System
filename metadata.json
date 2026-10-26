@@ -1,0 +1,7 @@
+{
+  "name": "Fake News Detection System",
+  "description": "A Machine Learning-based Fake News Detection System with NLP text preprocessing, TF-IDF feature extraction, Naive Bayes & Logistic Regression classification, and interactive feature inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
